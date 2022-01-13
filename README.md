@@ -3,7 +3,7 @@
 ### Requisitos
 
 [X] Criar um novo *todo*;
-[] Listar todos os *todos*;
-[] Alterar o `title` e `deadline` de um *todo* existente;
-[] Marcar um *todo* como feito;
-[] Excluir um *todo*;
+[X] Listar todos os *todos*;
+[X] Alterar o `title` e `deadline` de um *todo* existente;
+[X] Marcar um *todo* como feito;
+[X] Excluir um *todo*;
